@@ -130,3 +130,8 @@ footer {
   color: #0c79ff;
   text-decoration: none;
 }
+
+button {
+  border: 0;
+}
+
